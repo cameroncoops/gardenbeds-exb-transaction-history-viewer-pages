@@ -1,0 +1,24 @@
+{
+  "name": "gardenbeds-transaction-history",
+  "label": "Transaction History of Garden Bed",
+  "type": "widget",
+  "version": "1.14.0",
+  "exbVersion": "1.14.0",
+  "author": "Cam Cooper",
+  "description": "Displays a garden beds transaction history.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "supportDataSource": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 420,
+    "height": 500
+  }
+}
